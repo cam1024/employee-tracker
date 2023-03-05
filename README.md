@@ -8,7 +8,7 @@ This will allow you to run specific queries from the CLI to query and manipulate
   - [Usage](#usage)
   - [Features](#features)
   - [Technologies used](#technologies-used)
-  - [Contributing] (#Contributing)
+  - [Contributing](#Contributing)
 
 ## Installation
   1. Install Node.js https://nodejs.org/dist/v16.8.0/node-v16.8.0-x64.msi 
